@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Sinha
-- 👀 I’m interested in data Science and Artitificial Intelligence.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in data Science and Artificial Intelligence.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Kaggle and Github...
 - 📫 How to reach me ...
 
