@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Sinha
 - 👀 I’m interested in data Science and Artificial Intelligence.
 - 🌱 I’m currently learning Data Science and Machine Learning.
--     Looking for Data Analyst Roles
+- 🌱 Looking for Data Analyst roles
 - 💞️ I’m looking to collaborate on Kaggle and Github...
 - 
 
